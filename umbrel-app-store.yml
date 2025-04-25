@@ -1,0 +1,6 @@
+id: eurt-nl-umbrel-apps
+name: Eurt Umbrel Apps
+description: Mijn eigen apps voor Umbrel.
+maintainer: Eurt-nl
+apps:
+  - id: eurt-pwa-server
