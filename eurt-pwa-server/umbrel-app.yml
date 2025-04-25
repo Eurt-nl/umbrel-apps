@@ -8,4 +8,5 @@ developer: Eurt-nl
 website: https://github.com/Eurt-nl/umbrel-apps
 repo: https://github.com/Eurt-nl/umbrel-apps/tree/main/eurt-pwa-server
 support: https://github.com/Eurt-nl/umbrel-apps/issues
+icon: icon.png
 port: 80

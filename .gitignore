@@ -1,0 +1,12 @@
+# macOS systeemfiles
+.DS_Store
+
+# Node.js modules
+node_modules/
+
+# Logbestanden
+*.log
+
+# Build output folders
+dist/
+build/
