@@ -1,0 +1,23 @@
+version: "3.7"
+
+services:
+  app_proxy:
+    environment:
+      APP_HOST: web
+      APP_PORT: 80
+
+  web:
+    image: caddy:latest
+    restart: on-failure
+    volumes:
+      - ./site:/usr/share/caddy
+      - ./Caddyfile:/etc/caddy/Caddyfile
+
+  push-server:
+    image: node:20
+    working_dir: /app
+    volumes:
+      - ./push-server:/app
+    command: "node server.js"
+    expose:
+      - "3000"
