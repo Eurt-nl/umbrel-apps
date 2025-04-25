@@ -1,0 +1,16 @@
+[
+    {
+      "id": "eurt-pwa-server",
+      "name": "Eurt PWA Server",
+      "version": "1.0.0",
+      "tagline": "Host jouw eigen PWA's makkelijk en veilig.",
+      "description": "Host jouw eigen Progressive Web Apps eenvoudig via Node.js en Caddy op jouw Umbrel.",
+      "developer": "Eurt",
+      "website": "https://github.com/Eurt-nl/umbrel-apps",
+      "repo": "https://github.com/Eurt-nl/umbrel-apps",
+      "support": "https://github.com/Eurt-nl/umbrel-apps/issues",
+      "icon": "https://raw.githubusercontent.com/Eurt-nl/umbrel-apps/main/eurt-pwa-server/icon.png",
+      "gallery": [],
+      "path": "eurt-pwa-server"
+    }
+  ]
