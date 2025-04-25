@@ -1,13 +1,11 @@
 manifestVersion: 1
 id: eurt-pwa-server
-category: developer
 name: PWA Server
 version: "1.0.0"
 tagline: Host je PWA met push-notificaties
-description: >-
-  Een Umbrel-app om je Progressive Web App te hosten met ondersteuning voor push-notificaties via een Node.js-backend.
+description: Een Umbrel app voor je eigen PWA.
 developer: Eurt-nl
 website: https://github.com/Eurt-nl/umbrel-apps
 repo: https://github.com/Eurt-nl/umbrel-apps/tree/main/eurt-pwa-server
 support: https://github.com/Eurt-nl/umbrel-apps/issues
-port: 8080
+port: 80
