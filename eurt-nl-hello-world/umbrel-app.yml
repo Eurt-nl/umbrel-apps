@@ -1,16 +1,15 @@
 manifestVersion: 1
 id: eurt-nl-hello-world
-name: Hello World
-tagline: Hier komt mijn ding
+name: Eurt Node.js Server
+tagline: Host je eigen Node.js API of webapp in Umbrel
 icon: https://svgur.com/i/mvA.svg
 category: Development
 version: "1.0.0"
-port: 4000
+port: 3000
 description: >-
-  Add your app's description here.
+  Deze app draait een eenvoudige Node.js-server met Express.
 
-
-  You can also add newlines!
+  Ideaal voor het hosten van een backend, API of PWA via UmbrelOS.
 
 developer: Eurt.nl
 website: 
