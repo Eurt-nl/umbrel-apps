@@ -1,0 +1,16 @@
+manifestVersion: 1
+id: eurt-nl-testserver
+name: Eurt Testserver
+version: "1.0.0"
+tagline: Test frontend en backend apps op je eigen server
+description: >-
+  Deze Umbrel app draait een eenvoudige Express webserver.
+  Je kunt hier meerdere frontend apps tegelijk op testen, met ondersteuning voor Node.js backend APIs.
+
+developer: Eurt
+website: https://github.com/Eurt-nl/umbrel-apps
+repo: https://github.com/Eurt-nl/umbrel-apps
+support: https://github.com/Eurt-nl/umbrel-apps/issues
+port: 3000
+icon: icon.png
+gallery: []
